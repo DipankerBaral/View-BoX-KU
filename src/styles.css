@@ -1,0 +1,12 @@
+body{
+  background-color: #252830;
+  font-family: 'Ubuntu', sans-serif;
+}
+html {
+  overflow-y: scroll;
+}
+.headline{
+  color: white;
+}
+
+
